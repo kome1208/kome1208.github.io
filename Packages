@@ -1,0 +1,32 @@
+Package: com.kome1.hidequickaction
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: kome1
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.kome1.hidequickaction_0.0.1_iphoneos-arm64.deb
+Size: 3012
+MD5sum: bee1ced089409f3c0cdbc8309fbcd4c2
+SHA1: 1d6198c4d688bbb6f6cea116f865035d9882ccbc
+SHA256: 36e54beeb5166efe97445b6081562a7bf80712bda83bf64c680401588afa0553
+Section: Tweaks
+Description: Hide LS Quick Action Buttons
+Author: kome1
+Name: HideQuickAction
+
+Package: com.kome1.hidequickaction
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: kome1
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.kome1.hidequickaction_0.0.1_iphoneos-arm.deb
+Size: 2952
+MD5sum: 3648f336bd048e7e05d9148d0276d172
+SHA1: 9d428d92e05296f0c751a20f3306901d220007b1
+SHA256: aa46ed58e8d31a1fd8b049fb3038997f8f4d9868bd5a1e2f65fcd0afc30b6a09
+Section: Tweaks
+Description: Hide LS Quick Action Buttons
+Author: kome1
+Name: HideQuickAction
+
