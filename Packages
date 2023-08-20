@@ -1,30 +1,30 @@
 Package: com.kome1.fude
-Version: 0.0.1
-Architecture: iphoneos-arm64
+Version: 0.0.2
+Architecture: iphoneos-arm
 Maintainer: kome1
 Installed-Size: 344
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.spark.libsparkcolourpicker
-Filename: ./debs/com.kome1.fude_0.0.1_iphoneos-arm64.deb
-Size: 6814
-MD5sum: 1bd55c0d5bf8c7a4741271639e1372c4
-SHA1: 1112f93a667207f81b1bb20093b7ba5b768bb8db
-SHA256: ca9a22118e93caacc277c2540d3298816d61009094bb08b0fcff32d5af530bc4
+Filename: ./debs/com.kome1.fude_0.0.2_iphoneos-arm.deb
+Size: 6770
+MD5sum: 84cfdc8e66f4bbe2004e80739f6e8fbf
+SHA1: 587440583f27f6fb30048649c83b654a8aeb309a
+SHA256: dbdcab274a57b446826dbbe9f2b8d634437eae199d6cefbf61789a42237f9896
 Section: Tweaks
 Description: Change Homebar Color (In-app only)
 Author: kome1
 Name: Fude
 
 Package: com.kome1.fude
-Version: 0.0.1
-Architecture: iphoneos-arm
+Version: 0.0.2
+Architecture: iphoneos-arm64
 Maintainer: kome1
 Installed-Size: 344
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.spark.libsparkcolourpicker
-Filename: ./debs/com.kome1.fude_0.0.1_iphoneos-arm.deb
-Size: 6764
-MD5sum: 30005e533d6f8e2235d9e4fe453e4120
-SHA1: 0fcd8e35ffc2d6ea110a476bc6dd1f02b10b910c
-SHA256: 6247fb9c42ca2529bfae5c9a3c086e05d68682f9ac2a0a148d75a35babfec1fe
+Filename: ./debs/com.kome1.fude_0.0.2_iphoneos-arm64.deb
+Size: 6820
+MD5sum: bae20f87ea65e7dc5e0e5f6b99491d41
+SHA1: 14b3bf9a4801fa2973393adc21324223caca3fa1
+SHA256: 15c8c21f1d29f1fb2f3e1c172219f784e60b4766739de39d50e55d1dcd466357
 Section: Tweaks
 Description: Change Homebar Color (In-app only)
 Author: kome1
