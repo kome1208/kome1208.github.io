@@ -1,3 +1,39 @@
+Package: com.kome1.bducharge-reborn
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: kome1
+Installed-Size: 168
+Depends: mobilesubstrate
+Conflicts: com.wizage.bducharge
+Replaces: com.wizage.bducharge
+Filename: ./debs/com.kome1.bducharge-reborn_1.0.0_iphoneos-arm64.deb
+Size: 5204
+MD5sum: 6a5163248d5ff72f3d1b1f529d4f981d
+SHA1: ab25218cc38c7c8213d6344082c2d51c0c2cd122
+SHA256: 41a39307a386cb006dad673d8f5258f0aeb997922f2c9af6cd40569caa185f06
+Section: Tweaks
+Description: Let's change up the way we look at the charging bolt
+Author: wizages, kome1
+Name: BroDoYouCharge Reborn
+
+Package: com.kome1.bducharge-reborn
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: kome1
+Installed-Size: 168
+Depends: mobilesubstrate
+Conflicts: com.wizage.bducharge
+Replaces: com.wizage.bducharge
+Filename: ./debs/com.kome1.bducharge-reborn_1.0.0_iphoneos-arm.deb
+Size: 5122
+MD5sum: 96c0c8709c6082eafbed97728680d036
+SHA1: 35301df74ebd4445b454e161ddc8ee551b68b92f
+SHA256: 397aed31441edfec165a21e3322d17e9c3fd6d3d397c43c99a0294b1d73541cf
+Section: Tweaks
+Description: Let's change up the way we look at the charging bolt
+Author: wizages, kome1
+Name: BroDoYouCharge Reborn
+
 Package: com.kome1.customnons
 Version: 0.0.1
 Architecture: iphoneos-arm64
