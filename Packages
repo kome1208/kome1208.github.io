@@ -1,3 +1,35 @@
+Package: com.kome1.customnons
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: kome1
+Installed-Size: 344
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.spark.libsparkcolourpicker
+Filename: ./debs/com.kome1.customnons_0.0.1_iphoneos-arm64.deb
+Size: 7232
+MD5sum: e5ef61d32bea0b6c3d237cb479ab8885
+SHA1: 2391cbace13b116927c1d0d9baf302a19e936080
+SHA256: 477087ec702f88b59c18c4a37480ba47be2dee9bb0b716a7545fbfaa3f3c32d5
+Section: Tweaks
+Description: Customize "No Older Notifications" text
+Author: kome1
+Name: CustomNoOlderNotifications
+
+Package: com.kome1.customnons
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: kome1
+Installed-Size: 344
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.spark.libsparkcolourpicker
+Filename: ./debs/com.kome1.customnons_0.0.1_iphoneos-arm.deb
+Size: 7160
+MD5sum: f8e623b126ad952eb4c843b0028d269e
+SHA1: 805823bda19e55efd8df6b161f582224523a0028
+SHA256: 22be7a412c2516b910153ba1bc22cd30b3c5e588401031e599b1195805a44f2d
+Section: Tweaks
+Description: Customize "No Older Notifications" text
+Author: kome1
+Name: CustomNoOlderNotifications
+
 Package: com.kome1.fude
 Version: 0.0.2
 Architecture: iphoneos-arm
